@@ -1,2 +1,2 @@
 # Vindex
-learning foler
+learning folder
